@@ -1,0 +1,15 @@
+/Users/nguyenminhtri/RiderProjects/LogicAndLoop/LogicAndLoop/bin/Debug/net5.0/LogicAndLoop.deps.json
+/Users/nguyenminhtri/RiderProjects/LogicAndLoop/LogicAndLoop/bin/Debug/net5.0/LogicAndLoop.runtimeconfig.json
+/Users/nguyenminhtri/RiderProjects/LogicAndLoop/LogicAndLoop/bin/Debug/net5.0/LogicAndLoop.runtimeconfig.dev.json
+/Users/nguyenminhtri/RiderProjects/LogicAndLoop/LogicAndLoop/bin/Debug/net5.0/LogicAndLoop.dll
+/Users/nguyenminhtri/RiderProjects/LogicAndLoop/LogicAndLoop/bin/Debug/net5.0/ref/LogicAndLoop.dll
+/Users/nguyenminhtri/RiderProjects/LogicAndLoop/LogicAndLoop/bin/Debug/net5.0/LogicAndLoop.pdb
+/Users/nguyenminhtri/RiderProjects/LogicAndLoop/LogicAndLoop/obj/Debug/net5.0/LogicAndLoop.csproj.AssemblyReference.cache
+/Users/nguyenminhtri/RiderProjects/LogicAndLoop/LogicAndLoop/obj/Debug/net5.0/LogicAndLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhtri/RiderProjects/LogicAndLoop/LogicAndLoop/obj/Debug/net5.0/LogicAndLoop.AssemblyInfoInputs.cache
+/Users/nguyenminhtri/RiderProjects/LogicAndLoop/LogicAndLoop/obj/Debug/net5.0/LogicAndLoop.AssemblyInfo.cs
+/Users/nguyenminhtri/RiderProjects/LogicAndLoop/LogicAndLoop/obj/Debug/net5.0/LogicAndLoop.csproj.CoreCompileInputs.cache
+/Users/nguyenminhtri/RiderProjects/LogicAndLoop/LogicAndLoop/obj/Debug/net5.0/LogicAndLoop.dll
+/Users/nguyenminhtri/RiderProjects/LogicAndLoop/LogicAndLoop/obj/Debug/net5.0/ref/LogicAndLoop.dll
+/Users/nguyenminhtri/RiderProjects/LogicAndLoop/LogicAndLoop/obj/Debug/net5.0/LogicAndLoop.pdb
+/Users/nguyenminhtri/RiderProjects/LogicAndLoop/LogicAndLoop/obj/Debug/net5.0/LogicAndLoop.genruntimeconfig.cache
